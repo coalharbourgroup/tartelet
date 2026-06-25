@@ -1,6 +1,6 @@
 name: Tartelet
 options:
-  bundleIdPrefix: dk.shape
+  bundleIdPrefix: com.coalharbourgroup
   developmentLanguage: en
 configs:
   Debug: debug
